@@ -1,0 +1,47 @@
+{
+    "equipo": [{
+        "aparicion": "1941-11-01",
+        "bio": "El poder más reconocido de Aquaman es la capacidad telepática para comunicarse con la vida marina, la cual puede convocar a grandes distancias.",
+        "casa": "DC",
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/aquaman.png?alt=media&token=a720290f-c0fd-4570-9493-29ca192a5830",
+        "nombre": "Aquaman"
+    }, {
+        "aparicion": "1939-05-01",
+        "bio": "Los rasgos principales de Batman se resumen en «destreza física, habilidades deductivas y obsesión». La mayor parte de las características básicas de los cómics han variado por las diferentes interpretaciones que le han dado al personaje.",
+        "casa": "DC",
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/batman.png?alt=media&token=6b75cf47-618d-42ad-84c0-3800744cd59c",
+        "nombre": "Batman"
+    }, {
+        "aparicion": "1964-01-01",
+        "bio": "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiación a niveles superhumanos, en el accidente que tuvo cuando era niño. A pesar de su ceguera, puede \"ver\" a través de un \"sexto sentido\" que le sirve como un radar similar al de los murciélagos.",
+        "casa": "Marvel",
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/daredevil.png?alt=media&token=257dfb8f-2fb9-4202-8d0a-883e692b125c",
+        "nombre": "Daredevil"
+    }, {
+        "aparicion": "1962-05-01",
+        "bio": "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prácticamente ilimitados a la vez que aumenta su furia. Dependiendo de qué personalidad de Hulk esté al mando en ese momento (el Hulk Banner es el más débil, pero lo compensa con su inteligencia).",
+        "casa": "Marvel",
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/hulk.png?alt=media&token=15e4a682-de7b-4fca-ad7e-5406d5c01cb7",
+        "nombre": "Hulk"
+    }, {
+        "aparicion": "1940-06-01",
+        "bio": "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sólida mediante la utilización del pensamiento. Es alimentado por la Llama Verde (revisada por escritores posteriores como un poder místico llamado Starheart), una llama mágica contenida en dentro de un orbe (el orbe era en realidad un meteorito verde de metal que cayó a la Tierra, el cual encontró un fabricante de lámparas llamado Chang)",
+        "casa": "DC",
+        "cod": 4,
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/linterna-verde.png?alt=media&token=6ce88c1d-0c7a-4203-8246-29118b9f00d7",
+        "nombre": "Linterna Verde"
+    }, {
+        "aparicion": "1962-08-01",
+        "bio": "Tras ser mordido por una araña radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider-Man le permite levantar 10 toneladas o más. Gracias a esta gran fuerza Spider-Man puede realizar saltos íncreibles. Un \"sentido arácnido\", que le permite saber si un peligro se cierne sobre él, antes de que suceda. En ocasiones este puede llevar a Spider-Man al origen del peligro.",
+        "casa": "Marvel",
+        "cod": 5,
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/spiderman.png?alt=media&token=c979385d-3847-48f7-a195-e6e94bf00c49",
+        "nombre": "Spider-Man"
+    }, {
+        "aparicion": "1974-11-01",
+        "bio": "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que ésta sea, además ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres . Posee también una fuerza sobrehumana, que si bien no se compara con la de otros superhéroes como Hulk, sí sobrepasa la de cualquier humano.",
+        "casa": "Marvel",
+        "img": "https://firebasestorage.googleapis.com/v0/b/angular-html-8f41f.appspot.com/o/wolverine.png?alt=media&token=52bd152b-d794-46aa-a5b0-4dd242c5194e",
+        "nombre": "Wolverine"
+    }]
+}

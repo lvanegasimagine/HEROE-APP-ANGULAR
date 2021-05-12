@@ -1,0 +1,12 @@
+footer {
+    color: #035aa6;
+    background-color: #ffe8df;
+    font-size: 1.5rem;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+p {
+    padding-top: 20px;
+}
